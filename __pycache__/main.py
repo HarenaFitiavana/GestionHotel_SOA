@@ -2,7 +2,7 @@ from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 
 app = FastAPI(
-    title="🏢 Système de Réservation Hôtel",
+    title=" Système de Réservation Hôtel",
     description="Gestion des nuitées, vérification de disponibilité et facturation."
 )
 
