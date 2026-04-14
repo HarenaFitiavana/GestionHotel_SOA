@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 
 app = FastAPI(
-    title="🍴 Service Restaurant",
+    title=" Service Restaurant",
     description="Gestion de la carte (Web/Facebook) et prise de commande."
 )
 
